@@ -1,7 +1,7 @@
 # Benchmarking High-Throughput Performance of Stateless User-Management Services
 
 ## Student Information
-* [cite_start]**Name:** Nor Azmeer Bin Nor Azlan [cite: 6]
+* **Name:** Nor Azmeer Bin Nor Azlan [cite: 6]
 * [cite_start]**Student ID:** 2024389117 [cite: 6]
 * [cite_start]**Group:** NBCS2555A [cite: 6]
 * [cite_start]**Course:** ITT440 - Network Programming [cite: 2]
